@@ -67,6 +67,6 @@ Rochester Institute of Technology, Rochester, NY
 
 ## PROFESSIONAL ACTIVITIES
 
-Guest. Scientific Working Group on Digital Evidence (SWGDE)
-Poster Jury. Symposium on Usable Privacy and Security (SOUPS) '24.
-```
+- Guest. Scientific Working Group on Digital Evidence (SWGDE)
+- Poster Jury. Symposium on Usable Privacy and Security (SOUPS) '24.
+
