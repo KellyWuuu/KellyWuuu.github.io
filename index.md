@@ -1,6 +1,6 @@
 # Y. KELLY WU
 
-+1(267) 303-4546 | Rochester, NY  
+Rochester, NY  
 kellywu@mail.rit.edu | linkedin.com/in/kelly-wu-0b0134163/
 
 ## EDUCATION
@@ -27,28 +27,20 @@ Rochester Institute of Technology, Rochester, NY
 - Investigating novel deepfake detection methods that provide user-friendly explanations for the detection results.
 - Mentoring Undergraduate and Master students for their capstone projects.
 
-### Marketing and Sales Intern
-May 2019 - August 2019  
-ATIOM, Shanghai, China  
-
-- Tracked sales performance through HubSpot and created weekly sales reports to visualize sales performance, identify existing problems, and suggest future goals.
-- Managed a client database and established new client connections for future sales outreach.
-- Conducted industry research on hospitality, property management, and major market competitors.
-
 ## PUBLICATIONS
 
-1. Saniat Javid Sohrawardi, Y. Kelly Wu, Andrea Hickerson, and Matthew Wright. Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, 2024.
+1. Saniat Javid Sohrawardi, **Y. Kelly Wu**, Andrea Hickerson, and Matthew Wright. Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, 2024.
 
 ## TEACHING EXPERIENCE
 
-- Graduate Teaching Assistant. Cyber Analytics and Machine Learning, RIT, October 2022 - December 2022
-- Teaching Assistant. Data Visualization & Graphics, Georgetown University, September 2020 - May 2021
+- Graduate Teaching Assistant. Cyber Analytics and Machine Learning, RIT, 10/2022 - 12/2022
+- Teaching Assistant. Data Visualization & Graphics, Georgetown University, 09/2020 - 05/2021
 
 ## PRESENTATION & TALKS
 
 - Digital Media Forensics Ontology. SemaFor PI Meeting 03/2024
 - Deepfake 101. SWGDE 01/2024
-- Information Security Policy. RIT 11/2022
+- Information Security Policy. RIT, 11/2022
 - Deepfake for Software Ethics Seminar. RIT 10/2022, 10/2023
 - We DeFake Deepfakes for Lunch. University of South Carolina 06/2022
 - Deepfakes: Crime and Solutions. SCBLA 04/2022
@@ -56,7 +48,7 @@ ATIOM, Shanghai, China
 ## PROJECTS
 
 - [2023-2024] Building an Analysts-centered Deepfake Detection Tool.
-- [2023] Usability Study and User-centered Design in IoT Security Solutions.
+- [2023] Usability Study and User-Centered Design in IoT Security Solutions.
 - [2022] Exploring User-friendly Explanations for Deepfakes Detection.
 - [2020] Natural Scenes Image Classification Using k-NN, SVM, and Random Forest.
 - [2019] Women's Education Level and its Effect on Women's Decision-Making Power in Ethiopia.
@@ -76,4 +68,5 @@ ATIOM, Shanghai, China
 ## PROFESSIONAL ACTIVITIES
 
 Guest. Scientific Working Group on Digital Evidence (SWGDE)
+Poster Jury. Symposium on Usable Privacy and Security (SOUPS) '24.
 ```
