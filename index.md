@@ -24,7 +24,7 @@ August 2021 - Present
 Rochester Institute of Technology, Rochester, NY
 
 ### Summer Research Scholar 
-June 2024 - July 2024
+June 2024 - July 2024 
 Laboratory for Analytic Sciences, Raleigh, NC
 
 ## PUBLICATIONS
