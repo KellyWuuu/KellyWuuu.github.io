@@ -1,7 +1,7 @@
 # Y. KELLY WU
 
 Rochester, NY  
-kellywu@mail.rit.edu | linkedin.com/in/kelly-wu-0b0134163/
+kellywu@mail.rit.edu | linkedin.com/in/y-kelly-wu-0b0134163/
 
 ## EDUCATION
 
@@ -24,12 +24,12 @@ August 2021 - Present
 Rochester Institute of Technology, Rochester, NY
 
 ### Summer Research Scholar 
-June 2024 - July 2024 
+June 2024 - July 2024  
 Laboratory for Analytic Sciences, Raleigh, NC
 
 ## PUBLICATIONS
 
-1. Saniat Javid Sohrawardi, **Y. Kelly Wu**, Andrea Hickerson, and Matthew Wright. Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM, 2024.
+1. Saniat Javid Sohrawardi, **Y. Kelly Wu**, Andrea Hickerson, and Matthew Wright. Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video. In _Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems_. ACM, 2024.
 
 ## TEACHING EXPERIENCE
 
