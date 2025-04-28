@@ -29,11 +29,12 @@ Laboratory for Analytic Sciences, Raleigh, NC
 
 ## PUBLICATIONS
 
-1. Saniat Javid Sohrawardi, **Y. Kelly Wu**, Andrea Hickerson, and Matthew Wright. Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video. In _Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems_. ACM, 2024.
+1. Saniat Javid Sohrawardi, **Y. Kelly Wu**, Andrea Hickerson, and Matthew Wright. Dungeons & Deepfakes: Using scenario-based role-play to study journalists' behavior towards using AI-based verification tools for video. In _Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems_. ACM, 2024.  
+2. **Y. Kelly Wu**, Saniat Javid Sohrawardi, Candice R. Gerstner, and Matthew Wright. Understanding and Empowering Intelligence Analysts: User-Centered Design for Deepfake Detection Tools. In _Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems_. ACM, 2025
 
 ## TEACHING EXPERIENCE
 
-- Graduate Teaching Assistant. Human Factors in Security and Privacy, RIT, 09/2024-12/2024
+- Graduate Teaching Assistant. Human Factors in Security and Privacy, RIT, 09/2024 - 12/2024
 - Graduate Teaching Assistant. Cyber Analytics and Machine Learning, RIT, 10/2022 - 12/2022
 - Teaching Assistant. Data Visualization & Graphics, Georgetown University, 09/2020 - 05/2021
 
